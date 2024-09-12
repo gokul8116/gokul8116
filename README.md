@@ -1,19 +1,10 @@
-<h1>Hi👋,  I’m GOKUL PAL</h1>
-
-
-<h3>A Passionate Java Full Stack Developer </h3>
-
-- I’m interested in >> Learning coding and explore boundaries
-- 🌱 I’m currently learning >> Front end development
-- 💞️ I’m looking to collaborate on >> Unique development projects
-- 📫 How to reach me >> gokulpal389@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ... Funny 
 
 <!---
 gokul8116/gokul8116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![logo](https://github.com/gokul8116/gokul8116/blob/main/cover%20photo%20banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Gokul Pal</h1>
 <h3 align="center">A Computer Science Engineering Student from India</h3>
 
