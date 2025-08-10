@@ -26,6 +26,10 @@ You can preview your changes using the "Preview" button.
 - 📫 How to reach me **gokulpal389@gmail.com**  
 - ⚡ Fun fact **I am funny**
 
+
+
+---
+
 <!-- Social media links -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +37,10 @@ You can preview your changes using the "Preview" button.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul pal" height="30" width="40" />
   </a>
 </p>
+
+
+
+---
 
 <!-- Machine Learning Tools & Technologies section -->
 <h3 align="left">Machine Learning Tools & Technologies:</h3>
@@ -47,6 +55,11 @@ You can preview your changes using the "Preview" button.
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40" />
   </a>
 </p>
+
+
+
+---
+
 
 <!-- Languages and Tools section -->
 <h3 align="left">Languages and Tools:</h3>
@@ -92,6 +105,8 @@ You can preview your changes using the "Preview" button.
   </a>
 </p>
 
+
+---
 <!-- GitHub stats: Top languages -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul8116&show_icons=true&locale=en&layout=compact" alt="gokul8116" />
@@ -102,10 +117,16 @@ You can preview your changes using the "Preview" button.
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul8116&show_icons=true&locale=en" alt="gokul8116" />
 </p>
 
+
+---
+
 <!-- GitHub stats: Streaks -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul8116&" alt="gokul8116" />
 </p>
+
+
+---
 
 <!-- Snake Game Repo View -->
 <div align="center">
